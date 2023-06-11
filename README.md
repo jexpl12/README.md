@@ -1,7 +1,6 @@
-# Hi there, I'm Baratha Wijaya! 👋
+![Design and Development](https://github.com/jexpl12/README.md/blob/main/kodok.jpg)
 
-!(https://github.com/jexpl12/README.md/blob/main/kodok.jpg)
-
+<br />
 ## About Me
 
 I'm a software developer with a keen interest in web development and information security. I have knowledge and experience in several areas, including:
