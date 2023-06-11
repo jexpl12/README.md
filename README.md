@@ -7,17 +7,17 @@
 
 I'm a software developer with a keen interest in web development and information security. I have knowledge and experience in several areas, including:
 
-- Java
-- JavaScript
 - HTML And CSS
+- JavaScript
+- Java
 
 Additionally, I'm also interested in penetration testing and have a basic understanding of security techniques.
 
 ## Skills
 
-- Java
-- JavaScript
 - HTML And CSS
+- JavaScript
+- Java
 - Penetration Testing (50%)
 
 ## Play Music on YouTube
