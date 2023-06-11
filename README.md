@@ -1,6 +1,6 @@
 # Hi there, I'm Baratha Wijaya! 👋
 
-[Profile Picture](https://m.media-amazon.com/images/I/41gOyoREIVL._AC_UF894,1000_QL80_.jpg)
+(https://m.media-amazon.com/images/I/41gOyoREIVL._AC_UF894,1000_QL80_.jpg)
 
 ## About Me
 
