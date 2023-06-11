@@ -1,6 +1,6 @@
 # Hi there, I'm Baratha Wijaya! 👋
 
-([https://m.media-amazon.com/images/I/41gOyoREIVL._AC_UF894,1000_QL80_.jpg](https://github.com/jexpl12/README.md/blob/main/kodok.jpg))
+!(https://github.com/jexpl12/README.md/blob/main/kodok.jpg)
 
 ## About Me
 
