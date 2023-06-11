@@ -24,7 +24,7 @@ Additionally, I'm also interested in penetration testing and have a basic unders
 
 If you'd like to listen to my favorite song on YouTube, you can watch the video below:
 
-[![Play Music on YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=L-kRqBh5VGM)
+[![Play Music on YouTube](https://img.youtube.com/vi/L-kRqBh5VGM/maxresdefault.jpg)](https://www.youtube.com/watch?v=L-kRqBh5VGM)
 
 
 ## Find Me
