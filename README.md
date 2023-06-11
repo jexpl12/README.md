@@ -25,8 +25,7 @@ Additionally, I'm also interested in penetration testing and have a basic unders
 If you'd like to listen to my favorite song on YouTube, you can watch the video below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UA_6eUZBpcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <h1>Terbang tinggi membawa sebuah harapan kecil</h1>
-
+<br />
 
 ## Find Me
 
