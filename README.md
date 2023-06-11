@@ -24,7 +24,7 @@ Additionally, I'm also interested in penetration testing and have a basic unders
 
 If you'd like to listen to my favorite song on YouTube, you can watch the video below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L-kRqBh5VGM" frameborder="0" allowfullscreen></iframe>
+[![Play Music on YouTube](https://img.youtube.com/vi/L-kRqBh5VGM/maxresdefault.jpg)](https://www.youtube.com/watch?v=L-kRqBh5VGM){:height="300px" width="auto"}
 
 
 ## Find Me
@@ -33,6 +33,6 @@ You can find me on various platforms:
 
 - [Instagram](https://www.instagram.com/barathawijaya3/)
 - [Facebook](https://www.facebook.com/barata.wka)
-- [LinkedIn](https://id.linkedin.com/barathaw)
+- [LinkedIn](https://id.linkedin.com/barathawka)
 
 Feel free to reach out to me if you'd like to discuss or collaborate on interesting projects!
