@@ -22,6 +22,14 @@ Additionally, I'm also interested in penetration testing and have a basic unders
 - Dart
 - Penetration Testing (50%)
 
+#### Framework/Library
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+
+#### Tools
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+
 ## Play Music on YouTube
 
 If you'd like to listen to my favorite song on YouTube, you can watch the video below:
