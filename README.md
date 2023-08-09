@@ -1,5 +1,7 @@
 # Hi there, I'm Baratha Wijaya! 👋
 
+<img src="https://github.com/jexpl12/README.md/blob/main/kodok.jpg" alt="Gambar Kodok" width="300">
+
 ## About Me
 
 
