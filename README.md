@@ -10,6 +10,7 @@ I'm a software developer with a keen interest in web development and information
 - HTML And CSS
 - JavaScript
 - Java
+- Dart
 
 Additionally, I'm also interested in penetration testing and have a basic understanding of security techniques.
 
@@ -18,6 +19,7 @@ Additionally, I'm also interested in penetration testing and have a basic unders
 - HTML And CSS
 - JavaScript
 - Java
+- Dart
 - Penetration Testing (50%)
 
 ## Play Music on YouTube
