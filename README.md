@@ -17,8 +17,7 @@ Additionally, I'm also interested in penetration testing and have a basic unders
 - JavaScript
 - Java
 - Dart
-- Penetration Testing (50%) <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://ih1.redbubble.net/image.671438849.6879/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)" alt="arduino" width="40" height="40"/>
-
+- Penetration Testing (75%) 
 ## Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 
