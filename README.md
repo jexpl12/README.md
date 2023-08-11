@@ -11,13 +11,6 @@ I'm a software developer with a keen interest in web development and information
 
 Additionally, I'm also interested in penetration testing and have a basic understanding of security techniques.
 
-## Skills
-
-- HTML And CSS
-- JavaScript
-- Java
-- Dart
-- Penetration Testing (75%) 
 ## Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 
