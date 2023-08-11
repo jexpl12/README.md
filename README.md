@@ -1,9 +1,9 @@
 <p align="center">
     <img src="https://hosteddatatugas.xpplg2.repl.co/hacker.svg" width="120px"/>
 </p>
+
 <h1 align="center">Hi there, I'm Baratha Wijaya! 👋</h1>
 
-<img src="https://github.com/jexpl12/README.md/blob/main/kodok.jpg" alt="Gambar Kodok" width="300">
 
 ## About Me
 
