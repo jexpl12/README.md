@@ -1,4 +1,7 @@
-# Hi there, I'm Baratha Wijaya! 👋
+<p align="center">
+    <img src="https://hosteddatatugas.xpplg2.repl.co/hacker.svg" width="120px"/>
+</p>
+<h1 align="center">Hi there, I'm Baratha Wijaya! 👋</h1>
 
 <img src="https://github.com/jexpl12/README.md/blob/main/kodok.jpg" alt="Gambar Kodok" width="300">
 
@@ -30,9 +33,9 @@ If you'd like to listen to my favorite song on YouTube, you can watch the video 
 
 You can find me on various platforms:
 
-- [Instagram](https://www.instagram.com/barathawijaya3/)
-- [Facebook](https://www.facebook.com/barata.wka)
-- [LinkedIn](https://id.linkedin.com/barathawka)
+- <a href="https://www.facebook.com/barata.wka" target="_blank"><img align="left" alt="Baratha wijaya | Twitter" width="22px" src="https://hosteddatatugas.xpplg2.repl.co/facebook.svg" />
+<a href="https://www.instagram.com/barathawijaya3/" target="_blank"><img align="left" alt="Baratha wijaya | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://id.linkedin.com/barathawka" target="_blank"><img align="left" alt="akbarrzql | linkedin" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 Feel free to reach out to me if you'd like to discuss or collaborate on interesting projects!
 
