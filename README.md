@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://for.xpplg2.repl.co/hekerbetgwenjirrahihislebewww.svg" width="120px"/>
+    <img src="https://for.xpplg2.repl.co/heker.png" width="120px"/>
 </p>
 
 <h1 align="center">Hi there, I'm Baratha Wijaya! 👋</h1>
