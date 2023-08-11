@@ -32,11 +32,11 @@ If you'd like to listen to my favorite song on YouTube, you can watch the video 
 ## Find Me
 
 You can find me on various platforms:
-
+<p>
 <a href="https://www.facebook.com/barata.wka" target="_blank"><img align="left" alt="Baratha wijaya | Facebook" width="22px" src="https://hosteddatatugas.xpplg2.repl.co/facebook.svg" />
 <a href="https://www.instagram.com/barathawijaya3/" target="_blank"><img align="left" alt="Baratha wijaya | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://id.linkedin.com/barathawka" target="_blank"><img align="left" alt="akbarrzql | linkedin" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
+<a href="https://id.linkedin.com/barathawka" target="_blank"><img align="left" alt="akbarrzql | linkedin" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /> 
+</p>
 
 Feel free to reach out to me if you'd like to discuss or collaborate on interesting projects!
 
