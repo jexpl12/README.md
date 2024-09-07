@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Baratha</h1>
+<h3 align="center">A passionate front end mobile android dev from Indonesia</h3>
+
+- 🌱 I’m currently learning **Flutter.dart**
+
+- 🔭 I’m currently working on [Ayamku Delivery](https://github.com/wijayakaa/ayamku-admin)
+
+- ⚡ Fun fact **Water might not be wet💧**
+
 <h3 align="left">🌐Connect with me:</h3>
 <div align="left"> 
   <a href="mailto:adam.aji2007@gmail.com">
