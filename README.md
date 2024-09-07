@@ -32,12 +32,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=wijayakaa&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 📈 Contributions In last Year
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 <div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>📈 Contributions In last Year</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdamAjiLangit/AdamAjiLangit/output/github-contribution-grid-snake.svg" />
   
