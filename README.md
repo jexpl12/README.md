@@ -29,7 +29,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=wijayakaa&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-  
-  <br/><br/><br/>
-</div>
