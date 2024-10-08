@@ -33,9 +33,6 @@
 [![](https://visitcount.itsvg.in/api?id=wijayakaa&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <div align="left">
-  <h2>📈 Contributions In last Year</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wijayakaa/wijayakaa/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
