@@ -35,7 +35,7 @@
 <div align="left">
   <h2>📈 Contributions In last Year</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdamAjiLangit/AdamAjiLangit/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wijayakaa/wijayakaa/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
