@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baratha</h1>
+<h1 align="center">Hi 👋, I'm wijayakaa</h1>
 <h3 align="center">A passionate front end dev from Indonesia</h3>
 
 - 🌱 I’m currently learning **Flutter.dart**
