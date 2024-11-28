@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wijayakaa</h1>
-<h3 align="center">A passionate front end dev from Indonesia</h3>
+<h3 align="center">I have intressted at dev</h3>
 
 - 🌱 I’m still learning at any program language
 
