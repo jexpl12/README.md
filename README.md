@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm wijayakaa</h1>
 <h3 align="center">A passionate front end dev from Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter.dart**
+- 🌱 I’m still learning at any program language
 
 - 🔭 I’m currently working on [Ayamku Delivery](https://github.com/wijayakaa/ayamku-admin)
 
