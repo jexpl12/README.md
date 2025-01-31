@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wijayakaa</h1>
-<h3 align="center">I have intressted at dev</h3>
+<h3 align="center">A Passionate Developer Exploring the World of Code</h3>
 
 * 🌱 I’m still learning at any program language
 
