@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm wijayakaa</h1>
-<h3 align="center">I have intressted at dev</h3>
+<h3 align="center">A Passionate Developer Exploring the World of Code</h3>
 
 * 🌱 I’m still learning at any program language
 
 * 🔭 I’m currently working on [Ayamku Delivery](https://github.com/wijayakaa/ayamku-admin)
 
 * ⚡ Fun fact **Water might not be wet💧**
-<div align="left"> 
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
