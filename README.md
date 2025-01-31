@@ -7,8 +7,8 @@
 
 * ⚡ Fun fact **Water might not be wet💧**
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
+## 🛠️ Tech Stack:
+  
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
