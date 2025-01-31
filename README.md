@@ -6,7 +6,8 @@
 * 🔭 I’m currently working on [Ayamku Delivery](https://github.com/wijayakaa/ayamku-admin)
 
 * ⚡ Fun fact **Water might not be wet💧**
-<p  align="center">
+
+
 ## 🛠️ Tech Stack:
   
 ### 🚀 Programming Languages
