@@ -6,9 +6,6 @@
 * 🔭 I’m currently working on [Ayamku Delivery](https://github.com/wijayakaa/ayamku-admin)
 
 * ⚡ Fun fact **Water might not be wet💧**
-
-
-## 🛠️ Tech Stack:
   
 ### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
